@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.start {
+    width: 984;
+    height: 200;
+}
+section{
+    width: 1020px;
+}
+.container{
+width: 970px;
+}
+
+
+
+.nav {
+    text-align: center;
+    margin-top: -71px;
+}
+
+.nav ul {margin-left: 179px;}
+
+.nav li {list-style: none;}
+
+
+ .start img {
+        width: 178px;
+        margin-top: -1px;
+        margin-left: 6px;
+
+    }
+    
+    .nav {
+        text-align: center;
+        margin-top: -71px;
+    }
+
+    .nav a {
+        color: black;
+        text-decoration: none;
+        list-style: none;
+        margin-left: 46px;
+        text-transform: uppercase;
+        font-size: 15px;
+        font-family: sans-serif;
+        transition: .4s;
+    }
+  .nav a:hover{
+    color: rgb(255, 11, 198);
+  }
+
+    .Domain.Special {
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+        margin-top: 83px;
+        width: 100%;
+        padding: 20px 30px;
+        background: rgb(255, 239, 156);
+    }
+    .Domain.Special h1 {
+        margin-left: 70px;
+        display: inline-block;
+        width: 260px;
+    }
+    .Domain.Special h2 {
+        /* margin-left: 70px; */
+        /* width: 161px; */
+        /* display: inline-block; */
+        /* float: left; */
+        /* position: relative; */
+        font-weight: normal;
+        position: relative;
+        margin-right: 665px;
+        margin-left: 68px;
+    }
+    .Domain.Special h3 {
+        margin-left: 70px;
+        width: 431px;
+        display: inline-block;
+        float: left;
+        margin-left: 66px;
+        font-weight: normal;
+        font-size: 16px;
+    }
+    
+    input[type="search"] {
+        width: 369px;
+        margin-top: -50px;
+        display: inline-block;
+        position: absolute;
+        height: 45px;
+        padding: 10px 30px;
+        text-transform: uppercase;
+        outline: none;
+        border-radius: 5px;
+        margin-left: -105px;
+        color: rgb(82, 166, 231);
+        place-content: cp;
+        border: none;
+        box-shadow: 6px 8px 6px -6px gray,-2px 1px 8px -3px black;
+    }
+
+
+    .fa-solid,.fas {
+        font-weight: 900;
+        position: absolute;
+        margin-top: -35px;
+        margin-left: 225px;
+        color: rgb(82, 166, 231);
+    }
+
+    /* header sectoin end */
+
+
+/* section 2 about part design start  */
+
+
+    .buttyful {
+        background: #EAF1F1;
+        margin-top: 50px;
+        height: 430px;
+    }
+
+    .about-left {
+        width: 42%;
+    }
+    
+    .about-right {
+        width: 55%;
+        float: right;
+        position: relative;
+        margin-top: -265px;
+    }
+    .about-right h1 {
+        font-size: 52px;
+        font-weight: 600;
+        font-family: monospace;
+        margin-bottom: 10px;
+    }
+    .about-right p {
+        font-size: 19px;
+        font-weight: normal;
+        margin-bottom: 17px;
+        font-family: cursive;
+    }
+    .about-right button {
+        border: none;
+        margin-top: 35px;
+    }
+    
+    .about-right button a {
+     text-decoration: none;
+    font-size: 17px;
+    font-family: monospace;
+    padding: 10px 40px;
+    border-radius: 35px;
+    transition: .4s;
+   color: white;
+   background-color: rgb(40, 123, 286);
+  }
+    .about-right button:hover a{
+        color: white;
+        background-color: rgb(26, 75, 139);
+    }
+
+
+    /* section 2 about part desing end  */
+
+
+    /* section 3 tabile part desing start  */
+
+
+    .tabile-start {
+        margin-top: 55px;
+        margin-bottom: 66px;
+        border: 1px solid black;
+    }
+    
